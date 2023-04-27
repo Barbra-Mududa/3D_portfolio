@@ -1,11 +1,11 @@
-import logo from "./logo.svg";
+import logo from "./logo.jpg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
-import menu from "./menu.svg";
-import close from "./close.svg";
+import menu from "./menu.jpg";
+import close from "./close.jpg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
