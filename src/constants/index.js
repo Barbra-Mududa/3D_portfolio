@@ -1,7 +1,7 @@
 import {
   mobile,
   backend,
-//   creator,
+  creator,
   web,
   javascript,
 //   typescript,
@@ -120,9 +120,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Intern/Attache",
+    company_name: "Kenya Revenue Authority",
     iconBg: "#383E56",
     date: "Sept,2021 - Dec,2021",
     points: [
